@@ -1,2 +1,2 @@
-# Sample-2
+# MySQL
 checking how does repository looks into the list
