@@ -5,5 +5,5 @@ MySQL Workbench | Microsoft Excel - CSV
 
 # Projects
 
-## [[1]. School Students Data]
+## [1]. School Students Data
 
