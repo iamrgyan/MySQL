@@ -10,5 +10,5 @@ About the Dataset - This dataset contains records of students from class 6th to 
 There is a total of 787 rows and 10 columns.
 
 ### [School SQL Dataset](https://github.com/iamrgyan/MySQL/blob/main/school_data.sql)
-#### [School SQL Query](https://github.com/iamrgyan/MySQL/blob/main/school_data_query.sql)
+### [School SQL Query](https://github.com/iamrgyan/MySQL/blob/main/school_data_query.sql)
 
